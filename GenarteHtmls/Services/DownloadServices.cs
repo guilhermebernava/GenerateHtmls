@@ -16,8 +16,10 @@
                     }
                     return  response.Content;
                 }
-                catch
+                catch (Exception ex) 
                 {
+                    Console.WriteLine(ex.Message);
+                    Console.ReadKey();
                     throw;
                 }
             }

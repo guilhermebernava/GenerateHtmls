@@ -20,7 +20,9 @@ namespace GenarteHtmls.Services
             }
             catch (Exception e)
             {
-                throw new Exception(e.ToString());
+                Console.WriteLine(e.Message);
+                Console.ReadKey();
+                throw;
             }
 
         }
