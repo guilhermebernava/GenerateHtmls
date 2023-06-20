@@ -1,0 +1,5 @@
+C:\Users\guilh\OneDrive\Documentos\Projects\GenarteHtmls.exe
+C:\Users\guilh\OneDrive\Documentos\Projects\GenarteHtmls.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\GenarteHtmls.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projects\GenarteHtmls.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Projects\GenarteHtmls.pdb

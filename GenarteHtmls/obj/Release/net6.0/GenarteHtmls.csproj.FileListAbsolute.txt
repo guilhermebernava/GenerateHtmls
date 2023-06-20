@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\bin\Release\net6.0\GenarteHtmls.exe
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\bin\Release\net6.0\GenarteHtmls.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\bin\Release\net6.0\GenarteHtmls.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\bin\Release\net6.0\GenarteHtmls.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\bin\Release\net6.0\GenarteHtmls.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\refint\GenarteHtmls.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\GenarteHtmls.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\API\GenarteHtmls\GenarteHtmls\obj\Release\net6.0\ref\GenarteHtmls.dll
