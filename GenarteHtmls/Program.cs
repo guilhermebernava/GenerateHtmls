@@ -35,26 +35,30 @@ try
             throw new Exception("Invalid json");
         }
 
-        foreach (var item in jsons.responses)
+        Parallel.ForEach(jsons.responses, async item =>
         {
-            var body = await DownloadServices.GetHtml(item.codBrand.ToString(), item.typeChecklist.ToString());
+
+            var body = await DownloadServices.GetHtml(item.codBrandType.ToString(), item.typeChecklist.ToString());
 
             if (body == null)
             {
                 Console.WriteLine("Conteudo da API esta vazio");
-                continue;
+                return;
             }
 
-            await FileServices.SaveFile(body, item.codBrand.ToString(), item.typeChecklist.ToString(), savePath);
+            await FileServices.SaveFile(body, item.codBrandType.ToString(), item.typeChecklist.ToString(), savePath);
             Console.WriteLine("Salvo com sucesso!");
             Console.WriteLine();
-        }
+
+
+        });
 
         Console.WriteLine($"Todos os arquivos foram salvos na pasta \n {savePath}");
         Console.ReadKey();
         runProgram = false;
     }
-}catch (Exception ex)
+}
+catch (Exception ex)
 {
     Console.WriteLine(ex.Message);
     Console.ReadKey();

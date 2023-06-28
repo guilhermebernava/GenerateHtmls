@@ -3,7 +3,7 @@
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
     public class Response
     {
-        public int codBrand { get; set; }
+        public int codBrandType { get; set; }
         public char typeChecklist { get; set; }
     }
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\API\\GenarteHtmls\\GenarteHtmls\\GenarteHtmls.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\GenarteHtmls\\GenarteHtmls\\GenarteHtmls.csproj",
       "projectName": "GenarteHtmls",
-      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\API\\GenarteHtmls\\GenarteHtmls\\GenarteHtmls.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\GenarteHtmls\\GenarteHtmls\\GenarteHtmls.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\API\\GenarteHtmls\\GenarteHtmls\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Projects\\GenarteHtmls\\GenarteHtmls\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
